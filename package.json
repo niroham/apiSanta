@@ -1,0 +1,29 @@
+{
+  "name": "apiSanta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niroham/apiSanta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niroham/apiSanta/issues"
+  },
+  "homepage": "https://github.com/niroham/apiSanta#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "mongoose": "^5.7.12",
+    "nodemon": "^2.0.0"
+  }
+}
